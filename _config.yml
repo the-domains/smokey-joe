@@ -6,9 +6,9 @@ color:
   saturation: 0.6065979250706732
   rhythmicContrast: 0.07118379953317344
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: Smokey Joe

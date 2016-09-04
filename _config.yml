@@ -1,14 +1,26 @@
-layout_spectrum: 0.5209384129848331
-typography_spectrum: 0.727054754504934
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.868904534727335
-  lightness: 0.4036337831057608
-  saturation: 0.6065979250706732
-  rhythmicContrast: 0.07118379953317344
+  saturation: 0.8333333
+  brandStrength: 1
+  lightness: 0.001253133
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#DDDFD4'
+    - '#CCB595'
+    - '#13120D'
+    - '#977B53'
+    - '#839D75'
+  rhythmicContrast: 0.8333333
+typography_spectrum: 0.3126566
+layout_spectrum: 0.495614
 name: Smokey Joe
